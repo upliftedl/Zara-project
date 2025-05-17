@@ -4,9 +4,9 @@ This project follows the [Contributor Covenant](https://www.contributor-covenant
 
 All contributors, users, and participants are expected to:
 
-- Treat others with dignity and respect
-- Offer constructive feedback
-- Avoid discriminatory, offensive, or abusive behavior
+- Treat others with dignity and respect.
+- Offer constructive feedback.
+- Avoid discriminatory, offensive, or abusive behavior.
 
 ---
 
