@@ -33,7 +33,7 @@ def main():
     sites = load_sites()
     scanner = ZaraScanner(args.username, sites)
 
-    print(f"🔎 Scanning {len(sites)} sites for: {args.username}")
+    print(f"🕶️ Zara is crawling {len(sites)} sites to hunt down '{args.username}' — this might get interesting...")
     results = asyncio.run(scanner.run())
 
     found = {k: v for k, v in results.items() if v.get("exists")}
