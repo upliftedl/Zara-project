@@ -1,0 +1,2390 @@
+{
+    "1337x": {
+        "url": "https://www.1337x.to/user/{}/",
+        "exists": "<title>Error something went wrong.</title>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "2dimensions": {
+        "url": "https://2Dimensions.com/a/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "7cups": {
+        "url": "https://www.7cups.com/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "9gag": {
+        "url": "https://www.9gag.com/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "apclips": {
+        "url": "https://apclips.com/{}",
+        "exists": "Amateur Porn Content Creators",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "about.me": {
+        "url": "https://about.me/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "academia.edu": {
+        "url": "https://independent.academia.edu/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "admireme.vip": {
+        "url": "https://admireme.vip/{}",
+        "exists": "Page Not Found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "airbit": {
+        "url": "https://airbit.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "airliners": {
+        "url": "https://www.airliners.net/user/{}/profile/photos",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "all things worn": {
+        "url": "https://www.allthingsworn.com/profile/{}",
+        "exists": "Sell Used Panties",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "allmylinks": {
+        "url": "https://allmylinks.com/{}",
+        "exists": "Not Found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "aniworld": {
+        "url": "https://aniworld.to/user/profil/{}",
+        "exists": "Dieses Profil ist nicht verf\u00fcgbar",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "anilist": {
+        "url": "https://anilist.co/user/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "apple developer": {
+        "url": "https://developer.apple.com/forums/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "apple discussions": {
+        "url": "https://discussions.apple.com/profile/{}",
+        "exists": "The page you tried was not found. You may have used an outdated link or may have typed the address (URL) incorrectly.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "archive of our own": {
+        "url": "https://archiveofourown.org/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "archive.org": {
+        "url": "https://archive.org/details/@{}",
+        "exists": "could not fetch an account with user item identifier",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "artstation": {
+        "url": "https://www.artstation.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "asciinema": {
+        "url": "https://asciinema.org/~{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "ask fedora": {
+        "url": "https://ask.fedoraproject.org/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "atcoder": {
+        "url": "https://atcoder.jp/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "audiojungle": {
+        "url": "https://audiojungle.net/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "autofrage": {
+        "url": "https://www.autofrage.net/nutzer/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "avizo": {
+        "url": "https://www.avizo.cz/{}/",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "booth": {
+        "url": "https://{}.booth.pm/",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "bandcamp": {
+        "url": "https://www.bandcamp.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "bazar.cz": {
+        "url": "https://www.bazar.cz/{}/",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "behance": {
+        "url": "https://www.behance.net/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "bezuzyteczna": {
+        "url": "https://bezuzyteczna.pl/uzytkownicy/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "biggerpockets": {
+        "url": "https://www.biggerpockets.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "biohacking": {
+        "url": "https://forum.dangerousthings.com/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "bitbucket": {
+        "url": "https://bitbucket.org/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "bitwarden forum": {
+        "url": "https://community.bitwarden.com/u/{}/summary",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "blipfoto": {
+        "url": "https://www.blipfoto.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "blogger": {
+        "url": "https://{}.blogspot.com",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "boardgamegeek": {
+        "url": "https://boardgamegeek.com/user/{}",
+        "exists": "User not found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "bongacams": {
+        "url": "https://pt.bongacams.com/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "bookcrossing": {
+        "url": "https://www.bookcrossing.com/mybookshelf/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "bravecommunity": {
+        "url": "https://community.brave.com/u/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "bugcrowd": {
+        "url": "https://bugcrowd.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "buymeacoffee": {
+        "url": "https://buymeacoff.ee/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "buzzfeed": {
+        "url": "https://buzzfeed.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "cgtrader": {
+        "url": "https://www.cgtrader.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "cnet": {
+        "url": "https://www.cnet.com/profiles/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "cssbattle": {
+        "url": "https://cssbattle.dev/player/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "ctan": {
+        "url": "https://ctan.org/author/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "caddy community": {
+        "url": "https://caddy.community/u/{}/summary",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "car talk community": {
+        "url": "https://community.cartalk.com/u/{}/summary",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "carbonmade": {
+        "url": "https://{}.carbonmade.com",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "career.habr": {
+        "url": "https://career.habr.com/{}",
+        "exists": "<h1>\u041e\u0448\u0438\u0431\u043a\u0430 404</h1>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "championat": {
+        "url": "https://www.championat.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "chaos": {
+        "url": "https://chaos.social/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "chatujme.cz": {
+        "url": "https://profil.chatujme.cz/{}",
+        "exists": "Neexistujic\u00ed profil",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "chaturbate": {
+        "url": "https://chaturbate.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "chess": {
+        "url": "https://www.chess.com/member/{}",
+        "exists": "Username is valid",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "choice community": {
+        "url": "https://choice.community/u/{}/summary",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "clapper": {
+        "url": "https://clapperapp.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "cloudflarecommunity": {
+        "url": "https://community.cloudflare.com/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "clozemaster": {
+        "url": "https://www.clozemaster.com/players/{}",
+        "exists": "Oh no! Player not found.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "clubhouse": {
+        "url": "https://www.clubhouse.com/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "code snippet wiki": {
+        "url": "https://codesnippets.fandom.com/wiki/User:{}",
+        "exists": "This user has not filled out their profile page yet",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "codeberg": {
+        "url": "https://codeberg.org/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "codecademy": {
+        "url": "https://www.codecademy.com/profiles/{}",
+        "exists": "This profile could not be found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "codechef": {
+        "url": "https://www.codechef.com/users/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "codeforces": {
+        "url": "https://codeforces.com/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "codepen": {
+        "url": "https://codepen.io/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "coders rank": {
+        "url": "https://profile.codersrank.io/user/{}/",
+        "exists": "not a registered member",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "coderwall": {
+        "url": "https://coderwall.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "codewars": {
+        "url": "https://www.codewars.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "coinvote": {
+        "url": "https://coinvote.cc/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "colourlovers": {
+        "url": "https://www.colourlovers.com/lover/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "contently": {
+        "url": "https://{}.contently.com/",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "coroflot": {
+        "url": "https://www.coroflot.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "cracked": {
+        "url": "https://www.cracked.com/members/{}/",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "crevado": {
+        "url": "https://{}.crevado.com",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "crowdin": {
+        "url": "https://crowdin.com/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "cryptomator forum": {
+        "url": "https://community.cryptomator.org/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "cults3d": {
+        "url": "https://cults3d.com/en/users/{}/creations",
+        "exists": "Oh dear, this page is not working!",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "cyberdefenders": {
+        "url": "https://cyberdefenders.org/p/{}",
+        "exists": "<title>Blue Team Training for SOC analysts and DFIR - CyberDefenders</title>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "dev community": {
+        "url": "https://dev.to/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "dmoj": {
+        "url": "https://dmoj.ca/user/{}",
+        "exists": "No such user",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "dailymotion": {
+        "url": "https://www.dailymotion.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "dealabs": {
+        "url": "https://www.dealabs.com/profile/{}",
+        "exists": "La page que vous essayez",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "deviantart": {
+        "url": "https://{}.deviantart.com",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "digitalspy": {
+        "url": "https://forums.digitalspy.com/profile/{}",
+        "exists": "The page you were looking for could not be found.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "discogs": {
+        "url": "https://www.discogs.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "discord": {
+        "url": "https://discord.com",
+        "exists": "{\"taken\":false}",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "discuss.elastic.co": {
+        "url": "https://discuss.elastic.co/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "disqus": {
+        "url": "https://disqus.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "docker hub": {
+        "url": "https://hub.docker.com/u/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "dribbble": {
+        "url": "https://dribbble.com/{}",
+        "exists": "Whoops, that page is gone.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "duolingo": {
+        "url": "https://www.duolingo.com/profile/{}",
+        "exists": "{\"users\":[]}",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "eintracht frankfurt forum": {
+        "url": "https://community.eintracht.de/fans/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "empretienda ar": {
+        "url": "https://{}.empretienda.com.ar",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "envato forum": {
+        "url": "https://forums.envato.com/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "erome": {
+        "url": "https://www.erome.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "exposure": {
+        "url": "https://{}.exposure.co/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "exophase": {
+        "url": "https://www.exophase.com/user/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "eyeem": {
+        "url": "https://www.eyeem.com/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "f3.cool": {
+        "url": "https://f3.cool/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "fameswap": {
+        "url": "https://fameswap.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "fandom": {
+        "url": "https://www.fandom.com/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "fanpop": {
+        "url": "https://www.fanpop.com/fans/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "finanzfrage": {
+        "url": "https://www.finanzfrage.net/nutzer/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "flickr": {
+        "url": "https://www.flickr.com/people/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "flightradar24": {
+        "url": "https://my.flightradar24.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "flipboard": {
+        "url": "https://flipboard.com/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "football": {
+        "url": "https://www.rusfootball.info/user/{}/",
+        "exists": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0441 \u0442\u0430\u043a\u0438\u043c \u0438\u043c\u0435\u043d\u0435\u043c \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "fortnitetracker": {
+        "url": "https://fortnitetracker.com/profile/all/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "forum ophilia": {
+        "url": "https://www.forumophilia.com/profile.php?mode=viewprofile&u={}",
+        "exists": "that user does not exist",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "fosstodon": {
+        "url": "https://fosstodon.org/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "freelance.habr": {
+        "url": "https://freelance.habr.com/freelancers/{}",
+        "exists": "<div class=\"icon_user_locked\"></div>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "freelancer": {
+        "url": "https://www.freelancer.com/u/{}",
+        "exists": "\"users\":{}",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "freesound": {
+        "url": "https://freesound.org/people/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gnome vcs": {
+        "url": "https://gitlab.gnome.org/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gaiaonline": {
+        "url": "https://www.gaiaonline.com/profiles/{}",
+        "exists": "No user ID specified or user does not exist",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gamespot": {
+        "url": "https://www.gamespot.com/profile/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "geeksforgeeks": {
+        "url": "https://auth.geeksforgeeks.org/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "genius (artists)": {
+        "url": "https://genius.com/artists/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "genius (users)": {
+        "url": "https://genius.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gesundheitsfrage": {
+        "url": "https://www.gesundheitsfrage.net/nutzer/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "getmyuni": {
+        "url": "https://www.getmyuni.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "giant bomb": {
+        "url": "https://www.giantbomb.com/profile/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "giphy": {
+        "url": "https://giphy.com/{}",
+        "exists": "<title> GIFs - Find &amp; Share on GIPHY</title>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gitbook": {
+        "url": "https://{}.gitbook.io/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "github": {
+        "url": "https://www.github.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gitlab": {
+        "url": "https://gitlab.com/{}",
+        "exists": "[]",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gitea": {
+        "url": "https://gitea.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gitee": {
+        "url": "https://gitee.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "goodreads": {
+        "url": "https://www.goodreads.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "google play": {
+        "url": "https://play.google.com/store/apps/developer?id={}",
+        "exists": "the requested URL was not found on this server",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gradle": {
+        "url": "https://plugins.gradle.org/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "grailed": {
+        "url": "https://www.grailed.com/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gravatar": {
+        "url": "http://en.gravatar.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gumroad": {
+        "url": "https://www.gumroad.com/{}",
+        "exists": "Page not found (404) - Gumroad",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "gutefrage": {
+        "url": "https://www.gutefrage.net/nutzer/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hackthebox": {
+        "url": "https://forum.hackthebox.com/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hackaday": {
+        "url": "https://hackaday.io/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hackenproof (hackers)": {
+        "url": "https://hackenproof.com/hackers/{}",
+        "exists": "Page not found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hackerearth": {
+        "url": "https://hackerearth.com/@{}",
+        "exists": "404. URL not found.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hackernews": {
+        "url": "https://news.ycombinator.com/user?id={}",
+        "exists": "No such user.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hackerone": {
+        "url": "https://hackerone.com/{}",
+        "exists": "Page not found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hackerrank": {
+        "url": "https://hackerrank.com/{}",
+        "exists": "Something went wrong",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "harvard scholar": {
+        "url": "https://scholar.harvard.edu/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hashnode": {
+        "url": "https://hashnode.com/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "heavy-r": {
+        "url": "https://www.heavy-r.com/user/{}",
+        "exists": "Channel not found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "holopin": {
+        "url": "https://holopin.io/@{}",
+        "exists": "true",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "houzz": {
+        "url": "https://houzz.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hubpages": {
+        "url": "https://hubpages.com/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hubski": {
+        "url": "https://hubski.com/user/{}",
+        "exists": "No such user",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hudsonrock": {
+        "url": "https://cavalier.hudsonrock.com/api/json/v2/osint-tools/search-by-username?username={}",
+        "exists": "This username is not associated",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hugging face": {
+        "url": "https://huggingface.co/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "ifttt": {
+        "url": "https://www.ifttt.com/p/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "irc-galleria": {
+        "url": "https://irc-galleria.net/user/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "icons8 community": {
+        "url": "https://community.icons8.com/u/{}/summary",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "image fap": {
+        "url": "https://www.imagefap.com/profile/{}",
+        "exists": "Not found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "imgup.cz": {
+        "url": "https://imgup.cz/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "imgur": {
+        "url": "https://imgur.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "instagram": {
+        "url": "https://instagram.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "instructables": {
+        "url": "https://www.instructables.com/member/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "intigriti": {
+        "url": "https://app.intigriti.com/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "ionic forum": {
+        "url": "https://forum.ionicframework.com/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "issuu": {
+        "url": "https://issuu.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "itch.io": {
+        "url": "https://{}.itch.io/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "itemfix": {
+        "url": "https://www.itemfix.com/c/{}",
+        "exists": "<title>ItemFix - Channel: </title>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "jellyfin weblate": {
+        "url": "https://translate.jellyfin.org/user/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "jimdo": {
+        "url": "https://{}.jimdosite.com",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "joplin forum": {
+        "url": "https://discourse.joplinapp.org/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "kaggle": {
+        "url": "https://www.kaggle.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "kaskus": {
+        "url": "https://www.kaskus.co.id/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "keybase": {
+        "url": "https://keybase.io/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "kick": {
+        "url": "https://kick.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "kik": {
+        "url": "https://kik.me/{}",
+        "exists": "The page you requested was not found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "kongregate": {
+        "url": "https://www.kongregate.com/accounts/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "lor": {
+        "url": "https://www.linux.org.ru/people/{}/profile",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "launchpad": {
+        "url": "https://launchpad.net/~{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "leetcode": {
+        "url": "https://leetcode.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "lesswrong": {
+        "url": "https://www.lesswrong.com/users/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "letterboxd": {
+        "url": "https://letterboxd.com/{}",
+        "exists": "Sorry, we can\u2019t find the page you\u2019ve requested.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "librarything": {
+        "url": "https://www.librarything.com/profile/{}",
+        "exists": "<p>Error: This user doesn't exist</p>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "lichess": {
+        "url": "https://lichess.org/@/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "linkedin": {
+        "url": "https://linkedin.com/in/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "linktree": {
+        "url": "https://linktr.ee/{}",
+        "exists": "\"statusCode\":404",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "listed": {
+        "url": "https://listed.to/@{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "livejournal": {
+        "url": "https://{}.livejournal.com",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "lobsters": {
+        "url": "https://lobste.rs/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "lottiefiles": {
+        "url": "https://lottiefiles.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "lushstories": {
+        "url": "https://www.lushstories.com/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "mmorpg forum": {
+        "url": "https://forums.mmorpg.com/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "medium": {
+        "url": "https://medium.com/@{}",
+        "exists": "<body",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "memrise": {
+        "url": "https://www.memrise.com/user/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "minecraft": {
+        "url": "https://api.mojang.com/users/profiles/minecraft/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "mixcloud": {
+        "url": "https://www.mixcloud.com/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "monkeytype": {
+        "url": "https://monkeytype.com/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "motherless": {
+        "url": "https://motherless.com/m/{}",
+        "exists": "no longer a member",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "motorradfrage": {
+        "url": "https://www.motorradfrage.net/nutzer/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "myanimelist": {
+        "url": "https://myanimelist.net/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "myminifactory": {
+        "url": "https://www.myminifactory.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "mydramalist": {
+        "url": "https://www.mydramalist.com/profile/{}",
+        "exists": "Sign in - MyDramaList",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "myspace": {
+        "url": "https://myspace.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "nicommunityforum": {
+        "url": "https://community.native-instruments.com/profile/{}",
+        "exists": "The page you were looking for could not be found.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "nationstates nation": {
+        "url": "https://nationstates.net/nation={}",
+        "exists": "Was this your nation? It may have ceased to exist due to inactivity, but can rise again!",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "nationstates region": {
+        "url": "https://nationstates.net/region={}",
+        "exists": "does not exist.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "naver": {
+        "url": "https://blog.naver.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "needrom": {
+        "url": "https://www.needrom.com/author/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "newgrounds": {
+        "url": "https://{}.newgrounds.com",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "nextcloud forum": {
+        "url": "https://help.nextcloud.com/u/{}/summary",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "nightbot": {
+        "url": "https://nightbot.tv/t/{}/commands",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "ninja kiwi": {
+        "url": "https://ninjakiwi.com/profile/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "nintendolife": {
+        "url": "https://www.nintendolife.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "nitrotype": {
+        "url": "https://www.nitrotype.com/racer/{}",
+        "exists": "<title>Nitro Type | Competitive Typing Game | Race Your Friends</title>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "notabug.org": {
+        "url": "https://notabug.org/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "nyaa.si": {
+        "url": "https://nyaa.si/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "openstreetmap": {
+        "url": "https://www.openstreetmap.org/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "opensource": {
+        "url": "https://opensource.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "ourdjtalk": {
+        "url": "https://ourdjtalk.com/members?username={}",
+        "exists": "The specified member cannot be found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "pcgamer": {
+        "url": "https://forums.pcgamer.com/members/?username={}",
+        "exists": "The specified member cannot be found. Please enter a member's entire name.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "psnprofiles.com": {
+        "url": "https://psnprofiles.com/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "packagist": {
+        "url": "https://packagist.org/packages/{}/",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "pastebin": {
+        "url": "https://pastebin.com/u/{}",
+        "exists": "Not Found (#404)",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "patreon": {
+        "url": "https://www.patreon.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "pentesterlab": {
+        "url": "https://pentesterlab.com/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "pepperit": {
+        "url": "https://www.pepper.it/profile/{}/overview",
+        "exists": "La pagina che hai provato a raggiungere non si trova qui",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "periscope": {
+        "url": "https://www.periscope.tv/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "pinkbike": {
+        "url": "https://www.pinkbike.com/u/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "playstore": {
+        "url": "https://play.google.com/store/apps/developer?id={}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "pocketstars": {
+        "url": "https://pocketstars.com/{}",
+        "exists": "Join Your Favorite Adult Stars",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "pokemon showdown": {
+        "url": "https://pokemonshowdown.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "polarsteps": {
+        "url": "https://polarsteps.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "polygon": {
+        "url": "https://www.polygon.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "polymart": {
+        "url": "https://polymart.org/user/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "pornhub": {
+        "url": "https://pornhub.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "producthunt": {
+        "url": "https://www.producthunt.com/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "promodj": {
+        "url": "http://promodj.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "pypi": {
+        "url": "https://pypi.org/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "rajce.net": {
+        "url": "https://{}.rajce.idnes.cz/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "rarible": {
+        "url": "https://rarible.com/marketplace/api/v4/urls/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "rate your music": {
+        "url": "https://rateyourmusic.com/~{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "rclone forum": {
+        "url": "https://forum.rclone.org/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "redtube": {
+        "url": "https://www.redtube.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "redbubble": {
+        "url": "https://www.redbubble.com/people/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "reddit": {
+        "url": "https://www.reddit.com/user/{}",
+        "exists": "Sorry, nobody on Reddit goes by that name.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "reisefrage": {
+        "url": "https://www.reisefrage.net/nutzer/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "replit.com": {
+        "url": "https://replit.com/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "researchgate": {
+        "url": "https://www.researchgate.net/profile/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "reverbnation": {
+        "url": "https://www.reverbnation.com/{}",
+        "exists": "Sorry, we couldn't find that page",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "roblox": {
+        "url": "https://www.roblox.com/user.aspx?username={}",
+        "exists": "Page cannot be found or no longer exists",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "rockettube": {
+        "url": "https://www.rockettube.com/{}",
+        "exists": "OOPS! Houston, we have a problem",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "royalcams": {
+        "url": "https://royalcams.com/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "rubygems": {
+        "url": "https://rubygems.org/profiles/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "rumble": {
+        "url": "https://rumble.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "runescape": {
+        "url": "https://apps.runescape.com/runemetrics/app/overview/player/{}",
+        "exists": "{\"error\":\"NO_PROFILE\",\"loggedIn\":\"false\"}",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "swapd": {
+        "url": "https://swapd.co/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "sbazar.cz": {
+        "url": "https://www.sbazar.cz/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "scratch": {
+        "url": "https://scratch.mit.edu/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "scribd": {
+        "url": "https://www.scribd.com/{}",
+        "exists": "Page not found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "shitpostbot5000": {
+        "url": "https://www.shitpostbot.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "signal": {
+        "url": "https://community.signalusers.org/u/{}",
+        "exists": "Oops! That page doesn\u2019t exist or is private.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "sketchfab": {
+        "url": "https://sketchfab.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "slack": {
+        "url": "https://{}.slack.com",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "slant": {
+        "url": "https://www.slant.co/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "slashdot": {
+        "url": "https://slashdot.org/~{}",
+        "exists": "user you requested does not exist",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "slideshare": {
+        "url": "https://slideshare.net/{}",
+        "exists": "<title>Username available</title>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "slides": {
+        "url": "https://slides.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "smugmug": {
+        "url": "https://{}.smugmug.com",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "smule": {
+        "url": "https://www.smule.com/{}",
+        "exists": "Smule | Page Not Found (404)",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "snapchat": {
+        "url": "https://www.snapchat.com/add/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "soundcloud": {
+        "url": "https://soundcloud.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "sourceforge": {
+        "url": "https://sourceforge.net/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "soylentnews": {
+        "url": "https://soylentnews.org/~{}",
+        "exists": "The user you requested does not exist, no matter how much you wish this might be the case.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "speedrun.com": {
+        "url": "https://speedrun.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "spells8": {
+        "url": "https://forum.spells8.com/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "splice": {
+        "url": "https://splice.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "splits.io": {
+        "url": "https://splits.io/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "sporcle": {
+        "url": "https://www.sporcle.com/user/{}/people",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "sportlerfrage": {
+        "url": "https://www.sportlerfrage.net/nutzer/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "sportsru": {
+        "url": "https://www.sports.ru/profile/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "spotify": {
+        "url": "https://open.spotify.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "star citizen": {
+        "url": "https://robertsspaceindustries.com/citizens/{}",
+        "exists": "404",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "steam community (group)": {
+        "url": "https://steamcommunity.com/groups/{}",
+        "exists": "No group could be retrieved for the given URL",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "steam community (user)": {
+        "url": "https://steamcommunity.com/id/{}/",
+        "exists": "The specified profile could not be found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "strava": {
+        "url": "https://www.strava.com/athletes/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "sublimeforum": {
+        "url": "https://forum.sublimetext.com/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "tetr.io": {
+        "url": "https://ch.tetr.io/u/{}",
+        "exists": "No such user!",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "tiendanube": {
+        "url": "https://{}.mitiendanube.com/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "topcoder": {
+        "url": "https://profiles.topcoder.com/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "traktrain": {
+        "url": "https://traktrain.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "telegram": {
+        "url": "https://t.me/{}",
+        "exists": "<title>Telegram Messenger</title>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "tellonym.me": {
+        "url": "https://tellonym.me/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "tenor": {
+        "url": "https://tenor.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "themeforest": {
+        "url": "https://themeforest.net/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "tnaflix": {
+        "url": "https://www.tnaflix.com/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "torrentgalaxy": {
+        "url": "https://torrentgalaxy.to/profile/{}",
+        "exists": "<title>TGx:Can't show details</title>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "tradingview": {
+        "url": "https://www.tradingview.com/u/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "trakt": {
+        "url": "https://www.trakt.tv/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "trashboxru": {
+        "url": "https://trashbox.ru/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "trawelling": {
+        "url": "https://traewelling.de/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "trello": {
+        "url": "https://trello.com/{}",
+        "exists": "model not found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "tryhackme": {
+        "url": "https://tryhackme.com/p/{}",
+        "exists": "{\"success\":false}",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "tuna": {
+        "url": "https://tuna.voicemod.net/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "tweakers": {
+        "url": "https://tweakers.net/gallery/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "twitter": {
+        "url": "https://x.com/{}",
+        "exists": "<div class=\"error-panel\"><span>User ",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "typeracer": {
+        "url": "https://data.typeracer.com/pit/profile?user={}",
+        "exists": "Profile Not Found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "ultimate-guitar": {
+        "url": "https://ultimate-guitar.com/u/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "unsplash": {
+        "url": "https://unsplash.com/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "untappd": {
+        "url": "https://untappd.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "vk": {
+        "url": "https://vk.com/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "vsco": {
+        "url": "https://vsco.co/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "velog": {
+        "url": "https://velog.io/@{}/posts",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "velomania": {
+        "url": "https://forum.velomania.ru/member.php?username={}",
+        "exists": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d \u0438 \u043d\u0435 \u0438\u043c\u0435\u0435\u0442 \u043f\u0440\u043e\u0444\u0438\u043b\u044f \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "venmo": {
+        "url": "https://account.venmo.com/u/{}",
+        "exists": "Venmo | Page Not Found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "vero": {
+        "url": "https://vero.co/{}",
+        "exists": "Not Found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "vimeo": {
+        "url": "https://vimeo.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "virustotal": {
+        "url": "https://www.virustotal.com/gui/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "vlr": {
+        "url": "https://www.vlr.gg/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "wicg forum": {
+        "url": "https://discourse.wicg.io/u/{}/summary",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "warrior forum": {
+        "url": "https://www.warriorforum.com/members/{}.html",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "wattpad": {
+        "url": "https://www.wattpad.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "webnode": {
+        "url": "https://{}.webnode.cz/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "weblate": {
+        "url": "https://hosted.weblate.org/user/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "weebly": {
+        "url": "https://{}.weebly.com/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "wikidot": {
+        "url": "http://www.wikidot.com/user:info/{}",
+        "exists": "User does not exist.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Special:CentralAuth/{}?uselang=qqx",
+        "exists": "centralauth-admin-nonexistent:",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "windy": {
+        "url": "https://community.windy.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "wix": {
+        "url": "https://{}.wix.com",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "wolframalphaforum": {
+        "url": "https://community.wolfram.com/web/{}/home",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "wordpress": {
+        "url": "https://{}.wordpress.com/",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "wordpressorg": {
+        "url": "https://profiles.wordpress.org/{}/",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "wordnik": {
+        "url": "https://www.wordnik.com/users/{}",
+        "exists": "Page Not Found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "wykop": {
+        "url": "https://www.wykop.pl/ludzie/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "xbox gamertag": {
+        "url": "https://xboxgamertag.com/search/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "xvideos": {
+        "url": "https://xvideos.com/profiles/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "yandexmusic": {
+        "url": "https://music.yandex/users/{}/playlists",
+        "exists": "\u041e\u0448\u0438\u0431\u043a\u0430 404",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "younow": {
+        "url": "https://www.younow.com/{}/",
+        "exists": "No users found",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "youpic": {
+        "url": "https://youpic.com/photographer/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "youporn": {
+        "url": "https://youporn.com/uservids/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "youtube": {
+        "url": "https://www.youtube.com/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "akniga": {
+        "url": "https://akniga.org/profile/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "authorstream": {
+        "url": "http://www.authorstream.com/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "babyblogru": {
+        "url": "https://www.babyblog.ru/user/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "chaos.social": {
+        "url": "https://chaos.social/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "couchsurfing": {
+        "url": "https://www.couchsurfing.com/people/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "d3ru": {
+        "url": "https://d3.ru/user/{}/posts",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "dailykos": {
+        "url": "https://www.dailykos.com/user/{}",
+        "exists": "{\"result\":true,\"message\":null}",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "datingru": {
+        "url": "http://dating.ru/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "devrant": {
+        "url": "https://devrant.com/users/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "drive2": {
+        "url": "https://www.drive2.ru/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "egpu": {
+        "url": "https://egpu.io/forums/profile/{}/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "eintracht": {
+        "url": "https://community.eintracht.de/fans/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "fixya": {
+        "url": "https://www.fixya.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "fl": {
+        "url": "https://www.fl.ru/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "forum_guns": {
+        "url": "https://forum.guns.ru/forummisc/blog/{}",
+        "exists": "action=https://forum.guns.ru/forummisc/blog/search",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "freecodecamp": {
+        "url": "https://www.freecodecamp.org/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "furaffinity": {
+        "url": "https://www.furaffinity.net/user/{}",
+        "exists": "This user cannot be found.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "geocaching": {
+        "url": "https://www.geocaching.com/p/default.aspx?u={}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "habr": {
+        "url": "https://habr.com/ru/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hackster": {
+        "url": "https://www.hackster.io/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "hunting": {
+        "url": "https://www.hunting.ru/forum/members/?username={}",
+        "exists": "\u0423\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u043e\u0435 \u0438\u043c\u044f.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "igromania": {
+        "url": "http://forum.igromania.ru/member.php?username={}",
+        "exists": "\u041f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d \u0438 \u043d\u0435 \u0438\u043c\u0435\u0435\u0442 \u043f\u0440\u043e\u0444\u0438\u043b\u044f \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "interpals": {
+        "url": "https://www.interpals.net/{}",
+        "exists": "The requested user does not exist or is inactive",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "irecommend": {
+        "url": "https://irecommend.ru/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "jbzd.com.pl": {
+        "url": "https://jbzd.com.pl/uzytkownik/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "jeuxvideo": {
+        "url": "https://www.jeuxvideo.com/profil/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "kofi": {
+        "url": "https://ko-fi.com/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "kwork": {
+        "url": "https://kwork.ru/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "last.fm": {
+        "url": "https://last.fm/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "leasehackr": {
+        "url": "https://forum.leasehackr.com/u/{}/summary/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "livelib": {
+        "url": "https://www.livelib.ru/reader/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "mastodon.cloud": {
+        "url": "https://mastodon.cloud/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "mastodon.social": {
+        "url": "https://mastodon.social/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "mastodon.xyz": {
+        "url": "https://mastodon.xyz/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "mercadolivre": {
+        "url": "https://www.mercadolivre.com.br/perfil/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "minds": {
+        "url": "https://www.minds.com/{}/",
+        "exists": "\"valid\":true",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "moikrug": {
+        "url": "https://moikrug.ru/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "mstdn.io": {
+        "url": "https://mstdn.io/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "nairaland.com": {
+        "url": "https://www.nairaland.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "nnru": {
+        "url": "https://{}.www.nn.ru/",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "note": {
+        "url": "https://note.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "npm": {
+        "url": "https://www.npmjs.com/~{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "omg.lol": {
+        "url": "https://{}.omg.lol",
+        "exists": "\"available\": true",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "opennet": {
+        "url": "https://www.opennet.ru/~{}",
+        "exists": "\u0418\u043c\u044f \u0443\u0447\u0430\u0441\u0442\u043d\u0438\u043a\u0430 \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "osu!": {
+        "url": "https://osu.ppy.sh/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "phpru": {
+        "url": "https://php.ru/forum/members/?username={}",
+        "exists": "\u0423\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u043e\u0435 \u0438\u043c\u044f.",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "pikabu": {
+        "url": "https://pikabu.ru/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "pr0gramm": {
+        "url": "https://pr0gramm.com/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "prog.hu": {
+        "url": "https://prog.hu/azonosito/info/{}",
+        "exists": "redirect",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "satsisru": {
+        "url": "https://satsis.info/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "sessionize": {
+        "url": "https://sessionize.com/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "social.tchncs.de": {
+        "url": "https://social.tchncs.de/@{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "spletnik": {
+        "url": "https://spletnik.ru/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "svidbook": {
+        "url": "https://www.svidbook.ru/user/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "threads": {
+        "url": "https://www.threads.net/@{}",
+        "exists": "<title>Threads</title>",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "toster": {
+        "url": "https://www.toster.ru/user/{}/answers",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "uid": {
+        "url": "http://uid.me/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "xhamster": {
+        "url": "https://xhamster.com/users/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "znanylekarz.pl": {
+        "url": "https://www.znanylekarz.pl/{}",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    },
+    "bluesky": {
+        "url": "https://bsky.app/profile/{}.bsky.social",
+        "exists": "200",
+        "avatar_xpath": "",
+        "activity_xpath": ""
+    }
+}
